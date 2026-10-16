@@ -6,7 +6,7 @@
 
 📍 India &nbsp;·&nbsp; 💼 Full Stack Developer at MachDatum
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulvijayvp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulvijayvp/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokulvijayvp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gokulvijayvp)
 
 </div>
@@ -39,16 +39,16 @@ Full Stack Developer with 3+ years of experience building enterprise web applica
 
 **Databases**<br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cloud, Tools & AI-Assisted Development**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge)
 
 ## 💼 Professional Experience
 
@@ -75,16 +75,15 @@ Full Stack Developer with 3+ years of experience building enterprise web applica
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**StudentCurd_CourseCurd**](https://github.com/Gokulvijayvp/StudentCurd_CourseCurd) | Student and course management app with create, edit, delete, and search | React, React Router, Bootstrap, Yup, Node.js, Express, Mongoose |
+| [**Student & Course CRUD App**](https://github.com/Gokulvijayvp/StudentCurd_CourseCurd) | Student and course management app with create, edit, delete, and search | React, React Router, Bootstrap, Yup, Node.js, Express, Mongoose |
 | [**LoginRegisterPage_Emailsender_OTP**](https://github.com/Gokulvijayvp/LoginRegisterPage_Emailsender_OTP) | Login and registration with a three-step password reset (email, OTP, new password) | React, Yup, Node.js, Express, Mongoose, Nodemailer |
-| [**RowAndReactTask**](https://github.com/Gokulvijayvp/RowAndReactTask) | Table and row management UI with a REST-style backend | React, Tailwind CSS, React Hook Form, Node.js, Express, Mongoose |
+| [**RowAndReactTask**](https://github.com/Gokulvijayvp/RowAndReactTask) | Table and row management UI with an Express and Mongoose API backend | React, Tailwind CSS, React Hook Form, Node.js, Express, Mongoose |
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gokulvijayvp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulvijayvp&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 </div>
 
@@ -97,5 +96,5 @@ Full Stack Developer with 3+ years of experience building enterprise web applica
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gokulvijayvp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokulvijayvp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gokulvijayvp-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokulvijayvp/)
 [![GitHub](https://img.shields.io/badge/GitHub-Gokulvijayvp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gokulvijayvp)
