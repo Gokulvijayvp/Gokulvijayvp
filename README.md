@@ -87,6 +87,16 @@ Full Stack Developer with 3+ years of experience building enterprise web applica
 
 </div>
 
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-gokulrajvijay-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gokulrajvijay/)
+
+<a href="https://leetcode.com/u/gokulrajvijay/"><img src="https://leetcard.jacoblin.cool/gokulrajvijay?theme=dark" alt="LeetCode stats"/></a>
+
+</div>
+
 ## 🌱 Current Focus
 
 - Strengthening Data Structures and Algorithms
